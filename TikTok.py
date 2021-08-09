@@ -50,7 +50,7 @@ def user():
 	os.system("clear")
 	ow=open("user.txt","w")
 	import random
-	txt="azbcmdbfpgoqyrjgnc x0183659y._9284.djcpe_720bfnczlaaapwutg.7"
+	txt="azbcmdbfpgoqyrjgncx0183659y._9284.djcpe_720bfnczlaaapwutg.7"
 	for x in range(300):
 		r = random.choice(txt)
 		r2 = random.choice(txt)
@@ -67,7 +67,7 @@ def userr():
 	os.system("clear")
 	ow=open("user.txt","w")
 	import random
-	txt="azbcmdbfpgoqyrjgnc x0183659y._9284.djcpe_720bfnczlaaapwutg.7"
+	txt="azbcmdbfpgoqyrjgncx0183659y._9284.djcpe_720bfnczlaaapwutg.7"
 	for x in range(300):
 		r = random.choice(txt)
 		r2 = random.choice(txt)
@@ -86,7 +86,7 @@ def userrr():
 	os.system("clear")
 	ow=open("user.txt","w")
 	import random
-	txt="azbcmdbfpgoqyrjgnc x0183659y._9284.djcpe_720bfnczlaaapwutg.7"
+	txt="azbcmdbfpgoqyrjgnc0183659y._9284.djcpe_720bfnczlaaapwutg.7"
 	for x in range(300):
 		r = random.choice(txt)
 		r2 = random.choice(txt)
